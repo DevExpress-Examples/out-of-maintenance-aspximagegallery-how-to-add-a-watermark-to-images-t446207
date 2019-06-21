@@ -9,6 +9,9 @@
 * [Global.asax.cs](./CS/Watermark/Global.asax.cs) (VB: [Global.asax.vb](./VB/Watermark/Global.asax.vb))
 <!-- default file list end -->
 # ASPxImageGallery - How to add a watermark to images
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t446207/)**
+<!-- run online end -->
 
 
 ASPxImageGallery doesn't process images automatically, so we have to process images manually before binding the component to them. This example shows how to do it.
